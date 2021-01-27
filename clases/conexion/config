@@ -1,0 +1,10 @@
+  
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "",
+        "database" : "registromascotas",
+        "port": "3306"
+    }
+}
